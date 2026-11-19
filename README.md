@@ -1,4 +1,4 @@
-# gmap-timeline-replaysvg
+# gmap-timeline-replay
 
 Turn a Google Maps **Timeline** export into a **city-level world map SVG** you can
 put in a profile README. Four looks, all from the same city-level data:
@@ -27,8 +27,8 @@ person's history. More variants: [static light](examples/worldmap-light.svg) ·
 
 ## Use it on your phone
 
-Open **https://github.tig.pw/gmap-timeline-replaysvg/**
-(also **https://kaovilai.github.io/gmap-timeline-replaysvg/**).
+Open **https://github.tig.pw/gmap-timeline-replay/**
+(also **https://kaovilai.github.io/gmap-timeline-replay/**).
 
 1. Export Timeline from the Maps app (steps below) and keep the `.json` or
    `.zip` in your phone's Files app.
